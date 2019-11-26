@@ -1,0 +1,8 @@
+CV
+Nom : Nguyen
+Prénom : Thomas
+Permis : B
+Formations : CDA
+Compétences : Programmations
+Langues : Anglais
+Logiciels : GIT
